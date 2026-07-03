@@ -20,5 +20,9 @@ Designed with a soft pastel aesthetic and interactive UI to create a fun, engagi
 - Python  
 - OpenCV (Face Detection)  
 - Streamlit (Web App UI)  
-- NumPy  
+- NumPy
+
+You can visit the site from here->
+- https://ai-makeup-recommender-b5q6eacir2lhk7leyjufyb.streamlit.app/
+  
 
